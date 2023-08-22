@@ -1,0 +1,44 @@
+body{
+    background-color:lightskyblue;
+
+}
+h1{
+   font-family: 'Tektur', cursive;
+   color:white;
+
+}
+h2{
+    font-family: 'Tektur', cursive;
+    color:white;
+}
+h3{
+    font-family: 'Tektur', cursive;
+    color:white;
+}
+#camara{
+    width:60%;
+    height:60%;
+    border:5px solid white;
+}
+img{
+    border-radius:5px;
+    padding:10px;
+    box-shadow:3px 5px 10px white;
+}
+.colum{
+    display:inline;
+    padding:7px;
+}
+img:hover{
+    border-radius:150px;
+
+}
+.copyrigthfooter{
+    position:fixed;
+    color:blue;
+    bottom:0;
+    width:15%;
+    background-color:aqua;
+    line-height:3;
+    text-align:center;
+}
